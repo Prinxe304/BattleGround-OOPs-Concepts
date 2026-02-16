@@ -57,7 +57,7 @@ public class Villian{
         System.out.println("Villion casts 🔥 Fireball!");
         int choice = random.nextInt(3);
 
-        System.out.println(choice);
+//        System.out.println(choice);
 
         if(choice == 0){
 //            System.out.println("hero takes " + spe1 + " damage! HP left: " + health);
